@@ -3,7 +3,7 @@
 - ✨ สาขาวิชาวิศวกรรมคอมพิวเตอร์ (Computer Engineering)
 - 🌌 Computer Program : Visual Studio Code, ArduinoIDE, Canva, Basic Photoshop.
 - ⚡ เคยทำงานเกี่ยวกับการพัฒนา IoT ทั้งในด้าน Software และ Hardware
-- 🚩 ตอนนี้สนใจทำงานเกี่ยวกับ Fullstack Developer (React & NodeJS)
+- 🚩 ตอนนี้สนใจทำงานเกี่ยวกับ Fullstack Developer (React & NodeJS) or Blockchain Dev.
 - 📑 Database: MySQL, MongoDB, PostgreSQL.
 
 <!---
