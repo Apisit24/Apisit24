@@ -1,13 +1,16 @@
-- 👋 สวัสดีครับ ผมชื่ออาร์ต พอดีไอดีเก่าโดนลบไปพร้อมเมลมหาวิทยาลัยครับ
-- 💻 จบจากมหาวิทยาลัยศรีปทุม (Sripatum University)
-- ✨ สาขาวิชาวิศวกรรมคอมพิวเตอร์ (Computer Engineering)
-- 🌌 Computer Program : Visual Studio Code, ArduinoIDE, Canva, Basic Photoshop.
-- ⚡ เคยทำงานเกี่ยวกับการพัฒนา IoT ทั้งในด้าน Software และ Hardware
-- 🚩 ตอนนี้สนใจทำงานเกี่ยวกับ Fullstack Developer (React & NodeJS).
-- 📑 Programing languages: HTML5, CSS3, Javascript, Typecsript, C and C++.
-- 📑 Database: MySQL, MongoDB, PostgreSQL.
+👋 Hi, I'm Art — a passionate Fullstack Developer with a background in Computer Engineering from Sripatum University.  
+💡 I specialize in crafting modern web applications using **React**, **Node.js**, and cutting-edge technologies.
 
-<!---
-Apisit24/Apisit24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Experienced in:
+- Fullstack development (MERN Stack)
+- IoT systems (both hardware & software)
+- Building responsive UI/UX with **HTML5**, **CSS3**, **JavaScript**, **PHP** and **TypeScript**
+- Working with databases like **MySQL**, **MongoDB**, **Oracle** and **PostgreSQL**
+
+🛠 Tools & Platforms:
+- Visual Studio Code, ArduinoIDE, Canva, Basic Photoshop
+- Git & GitHub for version control and collaboration
+
+🚀 I'm eager to contribute to real-world projects and continuously grow as a developer in the tech world.
+
+📫 Let's connect and create something amazing together!
