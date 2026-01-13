@@ -36,10 +36,10 @@ const art = {
 `Node.js` `Express` `NestJS` `PHP`
 
 **Database**  
-`Oracle` `PostgreSQL` `Supabase` `MySQL` `MongoDB`
+`Oracle` `PostgreSQL` `Supabase`
 
 **IoT & Embedded**  
-`Arduino` `C`
+`Arduino` `C` `Python`
 
 **DevOps & Tools**  
 `Docker` `PM2` `Nginx` `Git` `Postman`
@@ -52,17 +52,18 @@ const art = {
 | ------------------------------------------------ | ------------------------------ | ----------------------------------- |
 | **[UI Dear](https://github.com/apisit24)**       | UI/UX inspiration showcase     | Next.js, TailwindCSS, Framer Motion |
 | **[Travel Memory](https://github.com/apisit24)** | Travel memory with map heatmap | Next.js, Supabase, Mapbox           |
-| **[My Portfolio](https://muart-dev.vercel.app)** | Personal portfolio website     | Next.js 15, TypeScript, Supabase    |
+| **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | Next.js 15, TypeScript, Supabase    |
 
 ---
 
 ### Certifications
 
 - 🎓 **Full-Stack Web Development Bootcamp** — Udemy (2023)
+- 🎓 **100 Days of Code™: The Complete Python Pro Bootcamp** - Udemy (2026)
 
 ---
 
-### 📊 Stats
+<!-- ### 📊 Stats -->
 
 <!-- <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=apisit24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"/>
