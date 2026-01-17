@@ -30,10 +30,10 @@ const art = {
 ### Tech Stack
 
 **Frontend**  
-`React` `Next.js` `TypeScript` `TailwindCSS` `Framer Motion`
+`React` `Next.js` `TypeScript` `TailwindCSS` `Framer Motion` `Shadcn`
 
 **Backend**  
-`Node.js` `Express` `NestJS` `PHP`
+`Node.js` `Express` `NestJS` `PHP` `Go(Fiber)`
 
 **Database**  
 `Oracle` `PostgreSQL` `Supabase`
@@ -43,6 +43,9 @@ const art = {
 
 **DevOps & Tools**  
 `Docker` `PM2` `Nginx` `Git` `Postman`
+
+**Other**
+`Blue Prism RPA` `n8n`
 
 ---
 
@@ -78,7 +81,7 @@ const art = {
 
 ### 🌱 Currently Learning
 
-`Next.js 16` `Server Actions` `Docker Compose` `Machine Learning`
+`Next.js 16` `Server Actions` `Docker Compose` `Machine Learning` `Golang`
 
 ---
 
