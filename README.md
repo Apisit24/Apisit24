@@ -56,7 +56,7 @@ const art = {
 | **[UI Dear](https://ui-dear.vercel.app)**       | UI/UX inspiration showcase     | Next.js, TailwindCSS, Framer Motion |
 | **[Travel Memory](https://travel-memory-snowy.vercel.app/)** | Travel memory with map heatmap | Next.js, Supabase, Mapbox           |
 | **[Production Planning](https://muart-dev.com/demo/app/pcc-planning)** | Production Planning | React, Go(Fiber), PostgreSQL           |
-| **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | Next.js 15, TypeScript, Supabase    |
+| **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | Next.js, TypeScript, Supabase    |
 
 ---
 
@@ -67,18 +67,18 @@ const art = {
 
 ---
 
-<!-- ### 📊 Stats -->
+ ### 📊 Stats
 
-<!-- <div align="center">
+<div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=apisit24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apisit24&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"/>
-</div> -->
+</div> 
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=apisit24&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
---- -->
+---
 
 ### 🌱 Currently Learning
 
