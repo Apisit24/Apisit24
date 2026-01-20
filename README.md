@@ -53,8 +53,9 @@ const art = {
 
 | Project                                          | Description                    | Tech                                |
 | ------------------------------------------------ | ------------------------------ | ----------------------------------- |
-| **[UI Dear](https://github.com/apisit24)**       | UI/UX inspiration showcase     | Next.js, TailwindCSS, Framer Motion |
-| **[Travel Memory](https://github.com/apisit24)** | Travel memory with map heatmap | Next.js, Supabase, Mapbox           |
+| **[UI Dear](https://ui-dear.vercel.app)**       | UI/UX inspiration showcase     | Next.js, TailwindCSS, Framer Motion |
+| **[Travel Memory](https://travel-memory-snowy.vercel.app/)** | Travel memory with map heatmap | Next.js, Supabase, Mapbox           |
+| **[Production Planning](https://muart-dev.com/demo/app/pcc-planning)** | Production Planning | React, Go(Fiber), PostgreSQL           |
 | **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | Next.js 15, TypeScript, Supabase    |
 
 ---
