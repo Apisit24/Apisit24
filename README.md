@@ -56,7 +56,7 @@ const art = {
 | **[UI Dear](https://ui-dear.vercel.app)**       | UI/UX inspiration showcase     | Next.js, TailwindCSS, Framer Motion |
 | **[Travel Memory](https://travel-memory-snowy.vercel.app/)** | Travel memory with map heatmap | Next.js, Supabase, Mapbox           |
 | **[Production Planning](https://muart-dev.com/demo/app/pcc-planning)** | Production Planning | React, Go(Fiber), PostgreSQL           |
-| **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | Next.js, TypeScript, Supabase    |
+| **[My Portfolio](https://muart-dev.com)** | Personal portfolio website     | React, TypeScript, Go(Fiber), PostgreSQL    |
 
 ---
 
